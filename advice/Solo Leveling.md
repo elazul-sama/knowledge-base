@@ -7,3 +7,6 @@
 	- LinkedIn share
 - Check job listings **every month**
 	- not to chase, but to inform
+
+
+https://www.twitch.tv/videos/2497468850?filter=archives&sort=time
