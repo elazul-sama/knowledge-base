@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dotnet advice - GPT.md",
+                "file": "GPT/Dotnet advice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dotnet advice - GPT"
+              "title": "Dotnet advice"
+            }
+          },
+          {
+            "id": "8c99f7606c65032b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPT/Overlearning insecurity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overlearning insecurity"
+            }
+          },
+          {
+            "id": "c1ab7a36610205f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GPT/How to ask questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to ask questions"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,9 +197,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52df47ae071b7a31",
+  "active": "20579ba1796b34e4",
   "lastOpenFiles": [
-    "Dotnet advice - GPT.md",
+    "GPT/Overlearning insecurity.md",
+    "GPT/How to ask questions.md",
+    "GPT/Anki Bad.md",
+    "GPT/Dotnet advice.md",
+    "GPT",
     "Solo Leveling.md",
     "Interview Prep (Linkedin comment).md",
     "Python - String Concatenation Performance.md",
