@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Functools.md",
+                "file": "Solo Leveling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functools"
+              "title": "Solo Leveling"
             }
           }
         ],
@@ -213,14 +213,14 @@
   },
   "active": "2f30fa0e04241dbb",
   "lastOpenFiles": [
+    "Interview Prep (Linkedin comment).md",
     "Python - String Concatenation Performance.md",
+    "Solo Leveling.md",
     "Functools.md",
     "Boot/Python/Python Questions.md",
     "Boot/Where does the assignment to `a = 5` stored, stack or heap?.md",
     "Boot/Python",
     "Boot",
-    "Solo Leveling.md",
-    "Interview Prep (Linkedin comment).md",
     "Welcome.md"
   ]
 }
